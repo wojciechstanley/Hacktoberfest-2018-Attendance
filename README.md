@@ -6,6 +6,8 @@ Mark your attendance to this hacktoberfest by simply adding your name to the end
 <hr>
 
 - [wojciechstanley](https://github.com/wojciechstanley)
+- [hipposen](https://github.com/hipposen)
 - [ir4hul](https://github.com/ir4hul)
 - [ocabafox](https://github.com/ocabafox)
 - [ayushyadav99](https://github.com/ayushyadav99)
+
